@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'meh-dehm-3876851b5',
-        twitter: '',
+        twitter: ' ',
         github: 'Mdehmoubed',
     },
 
